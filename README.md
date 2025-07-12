@@ -13,6 +13,9 @@ A simple React-based login application for clinic staff, which redirects to a ca
 
 ---
 
+👉 Live Demo URL:
+https://appointment-calendar-sathish-ms-projects-2b6ce2ac.vercel.app/
+
 ## 🔐 Login Credentials
 
 Use the following credentials to access the dashboard:
