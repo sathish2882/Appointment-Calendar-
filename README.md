@@ -6,12 +6,23 @@ A simple React-based login application for clinic staff, which redirects to a ca
 
 ## Features
 
-- 🔐 Login page with hardcoded staff credentials
-- 🔁 Redirects to a basic dashboard after login
-- ⚛️ Built using React and React Router
-- 🎨 Clean, responsive UI using custom CSS
+- 🔐 **Login System**
+  - Hardcoded staff login using email and password
+  - Redirects to dashboard after successful login
 
----
+- 📅 **Appointment Booking**
+  - Enter patient name, appointment date, and time
+  - View all booked appointments in a list
+  - Real-time display of appointments after booking
+
+- ⚛️ **React Router Navigation**
+  - `/` → Login Page  
+  - `/calendar` → Appointment Booking Dashboard
+
+- 🎨 **Clean UI**
+  - Responsive design using basic CSS
+  - User-friendly form layout and styling
+
 
 👉 Live Demo URL:
 https://appointment-calendar-sathish-ms-projects-2b6ce2ac.vercel.app/
